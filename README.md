@@ -1,6 +1,6 @@
 # Softly Decryption
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
 ![Made with Lua](https://img.shields.io/badge/Made%20with-Lua-blue.svg)
 ![Status: Learning Project](https://img.shields.io/badge/Status-Learning%20Project-lightgrey.svg)
 
