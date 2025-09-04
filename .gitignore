@@ -1,0 +1,15 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+
+Icon?
+._*
+
+*.swp
+*.swo
+
+*.luac
+*.log
+
+node_modules/
+dist/
