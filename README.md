@@ -8,7 +8,10 @@ A simple Lua project that demonstrates basic encryption and decryption using a C
 
 **Figure 1:** Encryption and decryption demo
 
+ScreenShot:
 ![Demo Screenshot](assets/ScreenShot1.png)
+
+Gif:
 ![Demo GIF](assets/Example.gif)
 
 ---
