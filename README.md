@@ -5,6 +5,7 @@
 ![Status: Learning Project](https://img.shields.io/badge/Status-Learning%20Project-lightgrey.svg)
 
 A simple Lua project that demonstrates basic encryption and decryption using a Caesar cipher!
+
 **Figure 1:** Encryption and decryption demo
 
 ![Demo Screenshot](assets/ScreenShot1.png)
